@@ -1,7 +1,7 @@
 # H1BAnalytics
 The project aims to do analysis on H1B data from 2016 and provide insights.<br/> 
 Also, it tries to provide a prediction of H1B approval based on the applicant's credentials.<br/>
-The original dataset can be founde on <a href="https://www.kaggle.com/jonamjar/h1b-data-set-2017/data">kaggle</a>.<br/>
+The original dataset can be found on <a href="https://www.kaggle.com/jonamjar/h1b-data-set-2017/data">kaggle</a>.<br/>
 For our project we took a subset of this data and the same can be found <a href="https://drive.google.com/open?id=1uh_sQR-DTVAjeiwGP10g-qGt8Th1iHMd">here</a>.<br/>
 We also have a video on youtube that explains the project. You can watch the video <a href="https://youtu.be/b1NXqNZBeDE">here</a>. 
 
